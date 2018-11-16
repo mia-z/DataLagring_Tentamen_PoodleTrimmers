@@ -1,0 +1,11 @@
+/Users/miaz-chan/Workspace/ECutbildning/DataLagring_Tentamen_PoodleTrimmers/PoodleTrimmers/PoodleTrimmers/bin/Debug/netcoreapp2.1/PoodleTrimmers.deps.json
+/Users/miaz-chan/Workspace/ECutbildning/DataLagring_Tentamen_PoodleTrimmers/PoodleTrimmers/PoodleTrimmers/bin/Debug/netcoreapp2.1/PoodleTrimmers.runtimeconfig.json
+/Users/miaz-chan/Workspace/ECutbildning/DataLagring_Tentamen_PoodleTrimmers/PoodleTrimmers/PoodleTrimmers/bin/Debug/netcoreapp2.1/PoodleTrimmers.runtimeconfig.dev.json
+/Users/miaz-chan/Workspace/ECutbildning/DataLagring_Tentamen_PoodleTrimmers/PoodleTrimmers/PoodleTrimmers/bin/Debug/netcoreapp2.1/PoodleTrimmers.dll
+/Users/miaz-chan/Workspace/ECutbildning/DataLagring_Tentamen_PoodleTrimmers/PoodleTrimmers/PoodleTrimmers/bin/Debug/netcoreapp2.1/PoodleTrimmers.pdb
+/Users/miaz-chan/Workspace/ECutbildning/DataLagring_Tentamen_PoodleTrimmers/PoodleTrimmers/PoodleTrimmers/obj/Debug/netcoreapp2.1/PoodleTrimmers.csprojAssemblyReference.cache
+/Users/miaz-chan/Workspace/ECutbildning/DataLagring_Tentamen_PoodleTrimmers/PoodleTrimmers/PoodleTrimmers/obj/Debug/netcoreapp2.1/PoodleTrimmers.csproj.CoreCompileInputs.cache
+/Users/miaz-chan/Workspace/ECutbildning/DataLagring_Tentamen_PoodleTrimmers/PoodleTrimmers/PoodleTrimmers/obj/Debug/netcoreapp2.1/PoodleTrimmers.AssemblyInfoInputs.cache
+/Users/miaz-chan/Workspace/ECutbildning/DataLagring_Tentamen_PoodleTrimmers/PoodleTrimmers/PoodleTrimmers/obj/Debug/netcoreapp2.1/PoodleTrimmers.AssemblyInfo.cs
+/Users/miaz-chan/Workspace/ECutbildning/DataLagring_Tentamen_PoodleTrimmers/PoodleTrimmers/PoodleTrimmers/obj/Debug/netcoreapp2.1/PoodleTrimmers.dll
+/Users/miaz-chan/Workspace/ECutbildning/DataLagring_Tentamen_PoodleTrimmers/PoodleTrimmers/PoodleTrimmers/obj/Debug/netcoreapp2.1/PoodleTrimmers.pdb
